@@ -24,7 +24,7 @@ Note: things to do are delighted as comments with "TODO" at the start, it's reco
 - [ ] Map 3 25% @BelvedereAlessandro
 - [ ] Map 4 95% @fenzifrancesco
 - [ ] Plot 1% @MonzianiTommaso
-- [ ] Insert correct unities in Scenario files
+- [ ] Insert correct unities in Scenario files [Link units](https://www.wesnoth.org/units/1.3.18/it/index.html)
 - [ ] Check if turn numbers is correct
 
 ### Extra features
@@ -33,6 +33,7 @@ Note: things to do are delighted as comments with "TODO" at the start, it's reco
 - [ ] Sounds
 - [ ] Complete README.md
 - [ ] Divide TODO into another one markdown file
+- [ ] Add [events](https://wiki.wesnoth.org/BuildingScenariosAdvanced#Advanced_Events)
 
 ### Done
 
