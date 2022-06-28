@@ -19,11 +19,11 @@ Note: things to do are delighted as comments with "TODO" at the start, it's reco
 - [ ] Scenario 2 basic cfg @techkek
 - [ ] Scenario 3 basic cfg @techkek
 - [ ] Scenario 4 basic cfg @techkek
-- [ ] Map 1 78% @fenzifrancesco
-- [ ] Map 2 55% @BelvedereAlessandro
-- [ ] Map 3 25% @BelvedereAlessandro
-- [ ] Map 4 95% @fenzifrancesco
-- [ ] Plot 1% @MonzianiTommaso
+- [ ] Map 1 100% @fenzifrancesco
+- [ ] Map 2 100% @BelvedereAlessandro
+- [ ] Map 3 100% @BelvedereAlessandro
+- [ ] Map 4 100% @fenzifrancesco
+- [ ] Plot 76% @MonzianiTommaso
 - [ ] Insert correct unities in Scenario files [Link units](https://www.wesnoth.org/units/1.3.18/it/index.html)
 - [ ] Check if turn numbers is correct
 
